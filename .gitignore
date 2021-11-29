@@ -2,3 +2,5 @@
 **/Moonlight.xcscmblueprint
 Build
 DerivedData
+.DS_Store
+.idea/
